@@ -1,0 +1,39 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+<center> <h1>__Zack Loken Data Analysis in R Portfolio__</h1> </center>
+
+### This RMarkdown has been created to store links containing HTML files from course projects and homework assignments for Data Analysis in R (OCS-7131). Click on the links to be redirected to a webpage showing knitted outputs from that RMarkdown. 
+
+### __Lecture Assignments:__
+
+[`Group_project_eBird_response_to_water_veg`](file:///C:/Users/ZLoken/OneDrive%20-%20Louisiana%20State%20University/Documents/GitHub/Data_Analysis_R/Lecture%20Assignments/Group_project_eBird_response_to_water_veg.html)
+
+[`Linear_modeling_again`](file:///C:/Users/ZLoken/OneDrive%20-%20Louisiana%20State%20University/Documents/GitHub/Data_Analysis_R/Lecture%20Assignments/Linear_modeling_again.html)
+
+[`Final_project_relative_abundance_using_eBird_and_habitat`](file:///C:/Users/ZLoken/OneDrive%20-%20Louisiana%20State%20University/Documents/GitHub/Data_Analysis_R/Lecture%20Assignments/Final_project_relative_abundance_using_eBird_and_habitat.html)
+
+<br>
+
+### __Lab Exercises:__
+
+[`Basics_in_R_but_RMarkdown`](file:///C:/Users/ZLoken/OneDrive%20-%20Louisiana%20State%20University/Documents/GitHub/Data_Analysis_R/Lab%20Exercises/Basics_in_R_but_R_Markdown.html)
+
+[`auk_and_landscapemetrics_package_examples`](file:///C:/Users/ZLoken/OneDrive%20-%20Louisiana%20State%20University/Documents/GitHub/Data_Analysis_R/Lab%20Exercises/auk_and_landscapemetrics_package_examples.html)
+
+[`Data_manipulation_using_tidyverse`](file:///C:/Users/ZLoken/OneDrive%20-%20Louisiana%20State%20University/Documents/GitHub/Data_Analysis_R/Lab%20Exercises/Data_manipulation_using_tidyverse.html)
+
+[`Data_visualization_using_ggplot`](file:///C:/Users/ZLoken/OneDrive%20-%20Louisiana%20State%20University/Documents/GitHub/Data_Analysis_R/Lab%20Exercises/Data_visualization_using_ggplot.html)
+
+[`Linear_modeling`](file:///C:/Users/ZLoken/OneDrive%20-%20Louisiana%20State%20University/Documents/GitHub/Data_Analysis_R/Lab%20Exercises/Linear_modeling.html)
+
+[`Random_and_mixed_effects`](file:///C:/Users/ZLoken/OneDrive%20-%20Louisiana%20State%20University/Documents/GitHub/Data_Analysis_R/Lab%20Exercises/Random_and_mixed_effects.html)
+
+<br>
+
+#### Thanks for taking a look!
