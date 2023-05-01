@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 
 <center> <h1>__Zack Loken Data Analysis in R Portfolio__</h1> </center>
 
-### This RMarkdown has been created to store links containing HTML files from course projects and homework assignments for Data Analysis in R (OCS-7131). Click on the links to be redirected to a webpage showing knitted outputs from that RMarkdown. 
+### This RMarkdown has been created to act as a portfolio displaying RMarkdowns from course projects and homework assignments in Data Analysis in R (OCS-7131). 
 <br>
 
 <center> <h4>__Lab Exercises:__<h4> </center>
