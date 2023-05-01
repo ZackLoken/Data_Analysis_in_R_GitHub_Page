@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 <center> <h4>__Lab Exercises:__<h4> </center>
 <br>
 
-### __R Basics__
+### __R basics__
 
 ![](C:/Users/ZLoken/OneDrive - Louisiana State University/Documents/GitHub/Data_Analysis_R/Lab Exercises/Basics_in_R_but_R_Markdown.html){width=100% height=650}
 <br>
@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 <br>
 <br>
 
-### __Data Manipulation using tidyverse__
+### __Data manipulation using tidyverse__
 
 ![](C:/Users/ZLoken/OneDrive - Louisiana State University/Documents/GitHub/Data_Analysis_R/Lab Exercises/Data_manipulation_using_tidyverse.html){width=100% height=650}
 <br>
